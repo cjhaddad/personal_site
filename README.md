@@ -1,1 +1,1 @@
-# personal_site
+# repo for my personal tech website
